@@ -1,7 +1,12 @@
 #include <stdio.h>
 
-int main(void)
+/*
+ * The main function of the program.
+ * This function is the entry point of the program and executes the main logic.
+*/
+
+  int main(void)
 {
-	printf("%s, "with proper grammar", "but the outcome is a piece of art");
+	printf("%s", "with proper grammar", "but the outcome is a piece of art");
 	return (0);
 }
