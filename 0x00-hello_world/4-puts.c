@@ -1,10 +1,12 @@
 #include <stdio.h>
 
-/*
- * The main function of the program.
- * This function is the entry point of the program and executes the main logic.
-*/
-
+/**
+ * main - Entry point
+ *
+ * Description: 'the program's description'
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
