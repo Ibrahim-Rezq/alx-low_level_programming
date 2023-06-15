@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * The main function of the program.  
+ * The main function of the program.
  * This function is the entry point of the program and executes the main logic.
 */
 
